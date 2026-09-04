@@ -1,14 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-  <title>Kcee Financials Services | Digital Banking</title>
-=======
   <title>Kcee Financial Services| Digital Banking</title>
->>>>>>> 259ba1a23c67c2820debac104851b7c087ec9b14
 
   <style>
     * {
@@ -1574,4 +1569,3 @@
 
 </body>
 </html>
-
