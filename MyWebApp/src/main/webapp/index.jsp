@@ -1040,7 +1040,7 @@ footer a:hover{
 <nav class="navbar">
 
     <div class="logo">
-        Kay <span>Couture</span>
+        Kaycee <span>Couture</span>
     </div>
 
     <ul class="nav-menu">
@@ -1086,7 +1086,7 @@ footer a:hover{
     <div class="hero-text">
 
         <div class="small-title">
-            Kay Couture • New Season
+            Kaycee Couture • New Season
         </div>
 
         <h1>
@@ -1631,13 +1631,13 @@ footer a:hover{
             </h2>
 
             <p>
-                Introducing the Kay Couture fragrance collection.
+                Introducing the Kaycee Couture fragrance collection.
                 Elegant notes of rose, amber, vanilla and exotic
                 woods designed to leave an unforgettable impression.
             </p>
 
             <button class="shop-button"
-                    onclick="addToCart('Kay Signature Perfume',95)">
+                    onclick="addToCart('Kaycee Signature Perfume',95)">
                 Shop Perfumes — $95
             </button>
 
@@ -1807,7 +1807,7 @@ footer a:hover{
             Our Community
         </div>
 
-        <h2>Styled By Kay</h2>
+        <h2>Styled By Kaycee</h2>
 
     </div>
 
