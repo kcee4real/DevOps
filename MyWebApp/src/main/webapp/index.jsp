@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Kcee's Couture | Fashion & Luxury</title>
+<title>Kay Couture | Fashion & Luxury</title>
 
 <style>
 
@@ -1040,7 +1040,7 @@ footer a:hover{
 <nav class="navbar">
 
     <div class="logo">
-        Kcee's <span>Couture</span>
+        Kay <span>Couture</span>
     </div>
 
     <ul class="nav-menu">
@@ -1086,7 +1086,7 @@ footer a:hover{
     <div class="hero-text">
 
         <div class="small-title">
-            Kcee's Couture • New Season
+            Kay Couture • New Season
         </div>
 
         <h1>
@@ -1631,13 +1631,13 @@ footer a:hover{
             </h2>
 
             <p>
-                Introducing the Kcee's Couture fragrance collection.
+                Introducing the Kay Couture fragrance collection.
                 Elegant notes of rose, amber, vanilla and exotic
                 woods designed to leave an unforgettable impression.
             </p>
 
             <button class="shop-button"
-                    onclick="addToCart('Kcee Signature Perfume',95)">
+                    onclick="addToCart('Kay Signature Perfume',95)">
                 Shop Perfumes — $95
             </button>
 
@@ -1807,7 +1807,7 @@ footer a:hover{
             Our Community
         </div>
 
-        <h2>Styled By Kcee's</h2>
+        <h2>Styled By Kay</h2>
 
     </div>
 
