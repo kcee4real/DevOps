@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Kay's Couture | Fashion & Luxury</title>
+    <title>Kc's Couture | Fashion & Luxury</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -927,7 +927,7 @@
         <div class="container nav">
 
             <a href="#" class="logo">
-                Kay's<span>Couture</span>
+                Kc's<span>Couture</span>
             </a>
 
             <ul class="nav-links">
@@ -963,7 +963,7 @@
             <div class="hero-content reveal">
 
                 <div class="hero-small">
-                    Kay's Couture • New Season
+                    Kc's Couture • New Season
                 </div>
 
                 <h1>
@@ -1352,7 +1352,7 @@
                         <h3>Ka Rose</h3>
                         <p>Floral Eau de Parfum</p>
                         <span class="price">$120</span>
-                        <button class="add-btn" onclick="addToCart('Kay's Rose',120,'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85')">
+                        <button class="add-btn" onclick="addToCart('Kc's Rose',120,'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85')">
                             Add to Bag
                         </button>
                     </div>
@@ -1471,12 +1471,12 @@
 
                 <blockquote>
                     "The quality is incredible. I wore my
-                    Kay's dress to an event and received
+                    Kc's dress to an event and received
                     compliments all night!"
                 </blockquote>
 
                 <cite>
-                    — Happy Kay's Couture Customer
+                    — Happy Kc's Couture Customer
                 </cite>
 
             </div>
@@ -1497,7 +1497,7 @@
 
                 <p>
                     Subscribe for exclusive collections, special offers
-                    and fashion inspiration from Kay's Couture.
+                    and fashion inspiration from Kc's Couture.
                 </p>
 
                 <form class="newsletter-form" onsubmit="subscribe(event)">
@@ -1530,12 +1530,12 @@
                 <div class="footer-brand">
 
                     <h2>
-                        Kay's <span>Couture</span>
+                        Kc's <span>Couture</span>
                     </h2>
 
                     <p>
                         Fashion, beauty and luxury for every moment.
-                        Discover your signature style with Kay's Couture.
+                        Discover your signature style with Kc's Couture.
                     </p>
 
                 </div>
@@ -1576,7 +1576,7 @@
             </div>
 
             <div class="copyright">
-                © 2026 Kay's Couture. All rights reserved.
+                © 2026 Kc's Couture. All rights reserved.
             </div>
 
         </div>
@@ -1631,7 +1631,7 @@
         <div class="search-box">
 
             <h2>
-                Search Kay's Couture
+                Search Kc's Couture
             </h2>
 
             <input
@@ -1809,7 +1809,7 @@
 
             if (email) {
 
-                showToast("Thank you for subscribing to Kay's Couture!");
+                showToast("Thank you for subscribing to Kc's Couture!");
 
                 document
                     .getElementById("email")
