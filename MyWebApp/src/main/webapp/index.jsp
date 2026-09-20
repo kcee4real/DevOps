@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Kaycee's Couture | Fashion & Luxury</title>
+    <title>Kay's Couture | Fashion & Luxury</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -927,7 +927,7 @@
         <div class="container nav">
 
             <a href="#" class="logo">
-                Kaycee <span>Couture</span>
+                Kay's<span>Couture</span>
             </a>
 
             <ul class="nav-links">
@@ -963,7 +963,7 @@
             <div class="hero-content reveal">
 
                 <div class="hero-small">
-                    Kaycee's Couture • New Season
+                    Kay's Couture • New Season
                 </div>
 
                 <h1>
@@ -1349,10 +1349,10 @@
                         <img src="https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85" alt="Luxury perfume">
                     </div>
                     <div class="product-info">
-                        <h3>Kaycee Rose</h3>
+                        <h3>Ka Rose</h3>
                         <p>Floral Eau de Parfum</p>
                         <span class="price">$120</span>
-                        <button class="add-btn" onclick="addToCart('Kaycee Rose',120,'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85')">
+                        <button class="add-btn" onclick="addToCart('Kay's Rose',120,'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85')">
                             Add to Bag
                         </button>
                     </div>
@@ -1471,12 +1471,12 @@
 
                 <blockquote>
                     "The quality is incredible. I wore my
-                    Kaycee's dress to an event and received
+                    Kay's dress to an event and received
                     compliments all night!"
                 </blockquote>
 
                 <cite>
-                    — Happy Kaycee's Couture Customer
+                    — Happy Kay's Couture Customer
                 </cite>
 
             </div>
@@ -1497,7 +1497,7 @@
 
                 <p>
                     Subscribe for exclusive collections, special offers
-                    and fashion inspiration from Kaycee's Couture.
+                    and fashion inspiration from Kay's Couture.
                 </p>
 
                 <form class="newsletter-form" onsubmit="subscribe(event)">
@@ -1530,12 +1530,12 @@
                 <div class="footer-brand">
 
                     <h2>
-                        Kaycee's <span>Couture</span>
+                        Kay's <span>Couture</span>
                     </h2>
 
                     <p>
                         Fashion, beauty and luxury for every moment.
-                        Discover your signature style with Kaycee's Couture.
+                        Discover your signature style with Kay's Couture.
                     </p>
 
                 </div>
@@ -1576,7 +1576,7 @@
             </div>
 
             <div class="copyright">
-                © 2026 Kaycee's Couture. All rights reserved.
+                © 2026 Kay's Couture. All rights reserved.
             </div>
 
         </div>
@@ -1631,7 +1631,7 @@
         <div class="search-box">
 
             <h2>
-                Search Kaycee's Couture
+                Search Kay's Couture
             </h2>
 
             <input
@@ -1809,7 +1809,7 @@
 
             if (email) {
 
-                showToast("Thank you for subscribing to Kaycee's Couture!");
+                showToast("Thank you for subscribing to Kay's Couture!");
 
                 document
                     .getElementById("email")
