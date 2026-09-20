@@ -1,0 +1,106 @@
+[1mdiff --git a/MyWebApp/src/main/webapp/index.jsp b/MyWebApp/src/main/webapp/index.jsp[m
+[1mindex b912ae3..fbd9b5a 100644[m
+[1m--- a/MyWebApp/src/main/webapp/index.jsp[m
+[1m+++ b/MyWebApp/src/main/webapp/index.jsp[m
+[36m@@ -4,7 +4,7 @@[m
+     <meta charset="UTF-8">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+ [m
+[31m-    <title>Kay's Couture | Fashion & Luxury</title>[m
+[32m+[m[32m    <title>Kc's Couture | Fashion & Luxury</title>[m
+ [m
+     <link rel="preconnect" href="https://fonts.googleapis.com">[m
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>[m
+[36m@@ -927,7 +927,7 @@[m
+         <div class="container nav">[m
+ [m
+             <a href="#" class="logo">[m
+[31m-                Kay's<span>Couture</span>[m
+[32m+[m[32m                Kc's<span>Couture</span>[m
+             </a>[m
+ [m
+             <ul class="nav-links">[m
+[36m@@ -963,7 +963,7 @@[m
+             <div class="hero-content reveal">[m
+ [m
+                 <div class="hero-small">[m
+[31m-                    Kay's Couture • New Season[m
+[32m+[m[32m                    Kc's Couture • New Season[m
+                 </div>[m
+ [m
+                 <h1>[m
+[36m@@ -1352,7 +1352,7 @@[m
+                         <h3>Ka Rose</h3>[m
+                         <p>Floral Eau de Parfum</p>[m
+                         <span class="price">$120</span>[m
+[31m-                        <button class="add-btn" onclick="addToCart('Kay's Rose',120,'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85')">[m
+[32m+[m[32m                        <button class="add-btn" onclick="addToCart('Kc's Rose',120,'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=85')">[m
+                             Add to Bag[m
+                         </button>[m
+                     </div>[m
+[36m@@ -1471,12 +1471,12 @@[m
+ [m
+                 <blockquote>[m
+                     "The quality is incredible. I wore my[m
+[31m-                    Kay's dress to an event and received[m
+[32m+[m[32m                    Kc's dress to an event and received[m
+                     compliments all night!"[m
+                 </blockquote>[m
+ [m
+                 <cite>[m
+[31m-                    — Happy Kay's Couture Customer[m
+[32m+[m[32m                    — Happy Kc's Couture Customer[m
+                 </cite>[m
+ [m
+             </div>[m
+[36m@@ -1497,7 +1497,7 @@[m
+ [m
+                 <p>[m
+                     Subscribe for exclusive collections, special offers[m
+[31m-                    and fashion inspiration from Kay's Couture.[m
+[32m+[m[32m                    and fashion inspiration from Kc's Couture.[m
+                 </p>[m
+ [m
+                 <form class="newsletter-form" onsubmit="subscribe(event)">[m
+[36m@@ -1530,12 +1530,12 @@[m
+                 <div class="footer-brand">[m
+ [m
+                     <h2>[m
+[31m-                        Kay's <span>Couture</span>[m
+[32m+[m[32m                        Kc's <span>Couture</span>[m
+                     </h2>[m
+ [m
+                     <p>[m
+                         Fashion, beauty and luxury for every moment.[m
+[31m-                        Discover your signature style with Kay's Couture.[m
+[32m+[m[32m                        Discover your signature style with Kc's Couture.[m
+                     </p>[m
+ [m
+                 </div>[m
+[36m@@ -1576,7 +1576,7 @@[m
+             </div>[m
+ [m
+             <div class="copyright">[m
+[31m-                © 2026 Kay's Couture. All rights reserved.[m
+[32m+[m[32m                © 2026 Kc's Couture. All rights reserved.[m
+             </div>[m
+ [m
+         </div>[m
+[36m@@ -1631,7 +1631,7 @@[m
+         <div class="search-box">[m
+ [m
+             <h2>[m
+[31m-                Search Kay's Couture[m
+[32m+[m[32m                Search Kc's Couture[m
+             </h2>[m
+ [m
+             <input[m
+[36m@@ -1809,7 +1809,7 @@[m
+ [m
+             if (email) {[m
+ [m
+[31m-                showToast("Thank you for subscribing to Kay's Couture!");[m
+[32m+[m[32m                showToast("Thank you for subscribing to Kc's Couture!");[m
+ [m
+                 document[m
+                     .getElementById("email")[m
